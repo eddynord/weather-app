@@ -1,6 +1,6 @@
 # Weather App
 
-A single page weather App using a weather API. This project is from a course to practice React concepts like API's , state, hooks and fetch.
+A single page Weather App w/React using a weather API. This project is from a course to practice concepts like API's , state, hooks and fetch.
 
 https://635577586b1a762349311aa2--astounding-croissant-ecf502.netlify.app/
 
