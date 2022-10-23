@@ -10,7 +10,7 @@
 
 
 .App {
-  background-image: url('./assets/pexel_cold.jpg');
+  background-image: url('./assets/cold-bg.jpg');
   background-size: cover;
   background-position: bottom;
   transition: 0.8 ease-out ;
@@ -18,7 +18,7 @@
 }
 
 .App.warm {
-  background-image: url('./assets/pexel_warm.jpg');
+  background-image: url('./assets/good-weather-blue-sky-and-white-clouds-clouds-against-blue-sky-background-warm-weather-spring-has-come-free-photo.jpg');
   background-size: cover;
   background-position: bottom;
   transition: 0.8 ease-out ;
